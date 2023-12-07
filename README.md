@@ -1,3 +1,3 @@
 # React App - myNotes
 
-www.mynotes-lhs.netlify.app
+https://.mynotes-lhs.netlify.app
